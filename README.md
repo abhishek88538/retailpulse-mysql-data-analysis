@@ -81,12 +81,3 @@ CALL sp_get_customers_by_rfm_segment('Champions');
 - **Market Basket Analysis**: Self-join on `order_items` computing **Support %**, **Confidence %**, and **Lift**.
 - **Production BI Objects**: Deterministic stored functions, parameterized stored procedures, analytical views, and inventory audit triggers.
 
----
-
-## Trainer & Student Assignment Kit (`Student_Assignment_Kit/`)
-Ready-to-distribute classroom materials are included in `Student_Assignment_Kit/`:
-- `RetailPulse_Student_Assignment.pdf` — 5-page student capstone prompt covering 5 Audit Tasks (`A1–A5`), 24 SQL Questions (`Q1–Q24`), 8 BI Objects (`B1–B8`), and a 100-mark grading rubric.
-- `RetailPulse_Trainer_Guide_and_Answer_Key.pdf` — 2-page instructor handbook with a 2-week rollout plan, verified benchmark answers, and common student pitfalls (keep private from students).
-- `00_student_schema.sql` & `01_load_csv_data.sql` — Starter schema and CSV loader script.
-- `csv_data/` — All 9 source tables exported as clean UTF-8 CSVs (`regions.csv` through `returns.csv`).
-
