@@ -1,0 +1,25 @@
+product_id,sku,product_name,category_id,supplier_id,unit_cost,unit_price,stock_qty,reorder_level,is_active,created_at
+1,EL-101,ProSound ANC Wireless Headphones,1,1,82.00,149.00,95,25,1,2026-11-11 20:57:15
+2,EL-102,ErgoMech Mechanical Keyboard,1,1,58.00,99.00,62,20,1,2026-11-11 20:57:15
+3,EL-103,SwiftClick Precision Wireless Mouse,1,1,21.00,45.00,140,30,1,2026-11-11 20:57:15
+4,EL-104,AeroStand Aluminum Laptop Stand,1,1,19.00,39.00,18,25,1,2026-11-11 20:57:15
+5,FA-201,Merino Knit Crewneck Sweater,2,2,28.00,68.00,84,20,1,2026-11-11 20:57:15
+6,FA-202,SlimFit Selvedge Denim Jeans,2,2,32.00,79.00,54,20,1,2026-11-11 20:57:15
+7,FA-203,Organic Cotton Classic Polo,2,2,14.00,38.00,130,30,1,2026-11-11 20:57:15
+8,FA-204,All-Weather Commuter Backpack,2,2,34.00,85.00,15,20,1,2026-11-11 20:57:15
+9,HK-301,BaristaPro Pour-Over Kettle,3,3,29.00,64.00,70,15,1,2026-11-11 20:57:15
+10,HK-302,ChefEdge Japanese Santoku Knife,3,3,42.00,92.00,44,15,1,2026-11-11 20:57:15
+11,HK-303,SmartAir HEPA Desk Purifier,3,3,68.00,129.00,26,20,1,2026-11-11 20:57:15
+12,HK-304,Borosilicate Glass Storage Set,3,3,18.00,42.00,110,25,1,2026-11-11 20:57:15
+13,BP-401,HydraGlow Vitamin C Serum 30ml,4,4,11.00,36.00,160,35,1,2026-11-11 20:57:15
+14,BP-402,BarrierRestore Ceramide Moisturizer,4,4,13.00,42.00,125,30,1,2026-11-11 20:57:15
+15,BP-403,SilkMist SPF 50 Daily Sunscreen,4,4,9.50,29.00,14,30,1,2026-11-11 20:57:15
+16,BP-404,Botanical Scalp & Hair Elixir,4,4,15.00,44.00,88,20,1,2026-11-11 20:57:15
+17,SF-501,GripCore Cork Yoga Mat 6mm,5,5,22.00,54.00,75,20,1,2026-11-11 20:57:15
+18,SF-502,FlexBand Fabric Resistance Set,5,5,11.00,28.00,145,30,1,2026-11-11 20:57:15
+19,SF-503,HydroPeak Insulated Bottle 1L,5,5,9.00,26.00,190,35,1,2026-11-11 20:57:15
+20,SF-504,PulseTrack Smart Jump Rope,5,5,18.00,46.00,12,20,1,2026-11-11 20:57:15
+21,BS-601,Designing Data Systems (Hardcover),6,6,18.00,44.00,95,20,1,2026-11-11 20:57:15
+22,BS-602,DotGrid Lay-Flat Leather Notebook,6,6,7.50,22.00,210,40,1,2026-11-11 20:57:15
+23,BS-603,Precision Brass Rollerball Pen,6,6,12.00,32.00,105,25,1,2026-11-11 20:57:15
+24,BS-604,SQL & Analytics Field Manual,6,6,16.00,39.00,115,20,1,2026-11-11 20:57:15

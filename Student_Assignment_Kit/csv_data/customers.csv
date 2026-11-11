@@ -1,0 +1,31 @@
+customer_id,full_name,email,gender,birth_date,signup_date,acquisition_channel,loyalty_tier,region_id,city,created_at
+1,Aarav Sharma,aarav.sharma@example.com,Male,1994-05-14,2024-01-05,Organic,Platinum,3,Bengaluru,2026-11-11 20:57:15
+2,Maya Verma,maya.verma@example.com,Female,1996-09-21,2024-01-14,Paid Search,Gold,3,Mumbai,2026-11-11 20:57:15
+3,Liam Carter,liam.carter@example.com,Male,1990-02-11,2024-01-20,Referral,Platinum,1,Austin,2026-11-11 20:57:15
+4,Sophia Bennett,sophia.bennett@example.com,Female,1993-07-08,2024-02-02,Social Media,Gold,2,London,2026-11-11 20:57:15
+5,Noah Kim,noah.kim@example.com,Male,1995-11-30,2024-02-15,Paid Search,Silver,4,Singapore,2026-11-11 20:57:15
+6,Zara Al-Mansoor,zara.mansoor@example.com,Female,1992-03-19,2024-03-01,Influencer,Gold,5,Dubai,2026-11-11 20:57:15
+7,Rohan Mehta,rohan.mehta@example.com,Male,1989-12-04,2024-03-10,Email,Silver,3,Pune,2026-11-11 20:57:15
+8,Emma Cole,emma.cole@example.com,Female,1997-04-25,2024-04-04,Organic,Silver,1,Toronto,2026-11-11 20:57:15
+9,Lucas Muller,lucas.muller@example.com,Male,1991-08-16,2024-05-12,Paid Search,Bronze,2,Berlin,2026-11-11 20:57:15
+10,Ananya Iyer,ananya.iyer@example.com,Female,1995-01-29,2024-06-18,Referral,Platinum,3,Chennai,2026-11-11 20:57:15
+11,Ethan Brooks,ethan.brooks@example.com,Male,1988-06-07,2024-07-07,Social Media,Bronze,1,Seattle,2026-11-11 20:57:15
+12,Chloe Tan,chloe.tan@example.com,Female,1998-10-12,2024-08-19,Influencer,Gold,4,Kuala Lumpur,2026-11-11 20:57:15
+13,Kabir Malhotra,kabir.malhotra@example.com,Male,1993-03-23,2024-09-02,Organic,Silver,3,New Delhi,2026-11-11 20:57:15
+14,Olivia Laurent,olivia.laurent@example.com,Female,1991-12-18,2024-10-10,Email,Silver,2,Paris,2026-11-11 20:57:15
+15,Omar Hassan,omar.hassan@example.com,Male,1987-09-03,2024-11-01,Paid Search,Gold,5,Riyadh,2026-11-11 20:57:15
+16,Priya Nair,priya.nair@example.com,Female,1994-11-09,2025-01-08,Organic,Gold,3,Hyderabad,2026-11-11 20:57:15
+17,Daniel Park,daniel.park@example.com,Male,1996-02-27,2025-02-14,Social Media,Silver,1,Chicago,2026-11-11 20:57:15
+18,Hannah Schmidt,hannah.schmidt@example.com,Female,1992-07-15,2025-03-22,Referral,Silver,2,Munich,2026-11-11 20:57:15
+19,Vikram Joshi,vikram.joshi@example.com,Male,1999-05-06,2025-04-11,Paid Search,Bronze,3,Jaipur,2026-11-11 20:57:15
+20,Amira Khalid,amira.khalid@example.com,Female,1995-08-22,2025-05-19,Influencer,Silver,5,Doha,2026-11-11 20:57:15
+21,Ryan Cooper,ryan.cooper@example.com,Male,1990-10-31,2025-06-25,Organic,Bronze,1,Denver,2026-11-11 20:57:15
+22,Mei Ling,mei.ling@example.com,Female,1997-01-17,2025-08-03,Social Media,Gold,4,Singapore,2026-11-11 20:57:15
+23,Siddharth Rao,siddharth.rao@example.com,Male,1993-06-14,2025-09-14,Email,Silver,3,Bengaluru,2026-11-11 20:57:15
+24,Isabella Rossi,isabella.rossi@example.com,Female,1994-04-02,2025-11-05,Paid Search,Bronze,2,Milan,2026-11-11 20:57:15
+25,Neha Kulkarni,neha.kulkarni@example.com,Female,1996-12-08,2026-01-10,Referral,Silver,3,Pune,2026-11-11 20:57:15
+26,Mason Reed,mason.reed@example.com,Male,1991-09-19,2026-02-18,Paid Search,Bronze,1,Boston,2026-11-11 20:57:15
+27,Farah Zayed,farah.zayed@example.com,Female,1998-03-11,2026-04-07,Influencer,Silver,5,Abu Dhabi,2026-11-11 20:57:15
+28,Arjun Deshmukh,arjun.deshmukh@example.com,Male,1995-07-26,2026-05-20,Organic,Bronze,3,Mumbai,2026-11-11 20:57:15
+29,Grace Lim,grace.lim@example.com,Female,2000-01-22,2026-07-09,Social Media,Bronze,4,Bangkok,2026-11-11 20:57:15
+30,Elena Novak,elena.novak@example.com,Female,1993-10-05,2026-08-25,Email,Bronze,2,London,2026-11-11 20:57:15

@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+
+# Logs & Environment Secrets
+*.log
+.env
+*.cnf
+
+# Python
+__pycache__/
+*.pyc
+.venv/

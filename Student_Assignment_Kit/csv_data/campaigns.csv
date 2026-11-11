@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,promo_code
+1,New Year Kickoff 2024,Email,2024-01-01,2024-02-15,140.00,NY2024
+2,Spring Style Refresh 2024,Social Media,2024-03-15,2024-05-10,220.00,SPRING24
+3,Mid-Year Tech Fest 2024,Paid Search,2024-07-01,2024-08-31,260.00,TECHFEST24
+4,Black Friday Mega Sale 2024,Seasonal Sale,2024-11-15,2024-12-10,320.00,BF2024
+5,Spring Wellness Drive 2025,Influencer,2025-03-01,2025-05-15,240.00,GLOW25
+6,Summer Gear Rush 2025,Paid Search,2025-07-01,2025-09-15,290.00,GEAR25
+7,Holiday Extravaganza 2025,Seasonal Sale,2025-11-15,2025-12-31,350.00,HOLIDAY25
+8,Autumn Productivity 2026,Email,2026-08-15,2026-10-31,280.00,WORKFLOW26

@@ -1,0 +1,11 @@
+return_id,order_id,order_item_id,return_date,return_reason,refund_amount,restocked
+1,5,11,2024-02-26,Late Delivery,85.00,1
+2,12,25,2024-05-11,Size / Fit Issue,74.00,1
+3,12,26,2024-05-11,Size / Fit Issue,63.00,1
+4,17,37,2024-07-28,Defective / Damaged,149.00,0
+5,27,60,2024-12-10,Late Delivery,129.00,1
+6,36,81,2025-05-01,Customer Changed Mind,50.00,1
+7,36,82,2025-05-01,Defective / Damaged,42.00,0
+8,44,98,2025-09-07,Size / Fit Issue,79.00,1
+9,48,105,2025-11-20,Not as Described,79.00,1
+10,53,116,2025-12-30,Late Delivery,114.00,1
